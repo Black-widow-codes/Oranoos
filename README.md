@@ -42,5 +42,5 @@ node test3.js
 |------|-------------|
 | `Problem1.js` | Clothing suggestion based on temperature using `if/else if` conditionals |
 | `test.js` | Introduction to variables, data types, comparison operators, assignment operators, and user input via `prompt-sync` |
-| `test2.js` | Examples of logical AND (`&&`) and logical OR (`\|\|`) operators in conditional statements |
+| `test2.js` | Examples of logical AND (`&&`) and logical OR (`||`) operators in conditional statements |
 | `test3.js` | More advanced conditional logic including nested conditions, equality checks, chained conditions, and complex boolean expressions |
